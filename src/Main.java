@@ -6,4 +6,3 @@ public class Main {
 //asd
 //asdasdasd
 //fghjkl;lmnb
-//ghjkl;
